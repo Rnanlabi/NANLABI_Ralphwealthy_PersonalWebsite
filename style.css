@@ -1,6 +1,4 @@
-/*
-* multi-line comment
-*/
+
 p{ line-height: 1em; }
 h1, h2, h3, h4{
     color: orange;
@@ -17,7 +15,11 @@ a{
 	a:hover,
 	a:active{ text-decoration: underline; }
 
-/* you can structure your code's white space so that it is as readable for when you come back in the future or for other people to read and edit quickly */
+h4{
+       color: #00000;
+	   text-align: center;
+	   text-decoration: underline;}
+
 
 body{
     font-family: arial; font-size: 80%; line-height: 1.2em; width: 100%; margin: 0; background: #eee;
