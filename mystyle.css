@@ -1,0 +1,198 @@
+<html>
+<head>
+<style>
+<body>
+ body {
+    font-family:Matura MT Script Capitals;
+        
+         }
+    
+    
+        
+    #bg {
+      postion:absolute;
+      background-attachment: scroll;
+      background-repeat: no-repeat;
+      display:block;
+      height: 100%;
+      width: 100%;
+       
+         }
+      
+      }
+   
+
+     p.main{
+          text-align:justify;
+           }
+    h3{
+       color: #0000FF;}
+  h6 {
+    text-align: center;
+     color: #FFFFFF;
+     
+}
+h5{
+       color: #000000;
+	   text-align: right;}
+h4{
+       color: #00000;
+	   text-align: center;
+	   text-decoration: underline;}
+
+h7 {
+    text-align: right;
+    
+} 
+h1{
+	color: #0000FF;
+	font-style: normal;
+	font-family: Bodoni MT Black;
+	
+}
+h2{
+	text-align:center;
+	color: #00000;
+	font-family: Baskerville Old Face;
+}
+ .title1 {
+             position:absolute; 
+             width:100.7%; 
+             height:10%; 
+             top:0.2%; 
+             left: 0%;
+             background-color:black; 
+             border:2px black;
+             text-align:center;
+         }
+    .title {
+             position:absolute; 
+             width:33%; 
+             height:80%; 
+             top:10%; 
+			 background-color: #e6e6e6;
+			 opacity: .8;
+             left:35%;
+             border:10px black;
+             text-align:center;
+         }
+		 .img-circle {
+    border-radius: 50%;
+}
+     img.home {
+             position:absolute; 
+             width:50%; 
+             height:50%;
+             top:20.1%; 
+             left: 25%;
+             width: 674px;
+             height: 313px;
+            
+              }
+ 
+     .home {
+    position:absolute;
+	left:18%;
+    width:15%;
+	height: 5%;
+	letter-spacing:2px;
+	background-color:#e6e6e6;
+	opacity: .8;
+	font-weight:bold;
+	font-size: 14px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	top: 10%;
+    text-align:center;
+             
+         }
+		 
+       .about {
+    position:absolute;
+	left:18%;
+    width:15%;
+	height: 5%;
+	letter-spacing:2px;
+	background-color:#e6e6e6;
+	opacity: .8;
+	font-weight:bold;
+	font-size: 14px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	top: 16%;
+    text-align:center;
+     
+         }
+     
+               
+        .contact {
+    position:absolute;
+	left:18%;
+    width:15%;
+	height: 5%;
+	letter-spacing:2px;
+	background-color:#e6e6e6;
+	opacity: .8;
+	font-weight:bold;
+	font-size: 14px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	top: 28%;
+    text-align:center;        
+            
+               }
+ 
+       
+        .status {
+    position:absolute;
+	left:18%;
+    width:15%;
+	height: 5%;
+	letter-spacing:2px;
+	background-color:#e6e6e6;
+	opacity: .8;
+	font-weight:bold;
+	font-size: 14px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	top: 34%;
+    text-align:center;        
+            
+               }
+      .body1 {
+             position:absolute; 
+             width:25%; 
+             height:3%; 
+             top:100%; 
+			 background-color: #0000FF;
+             left:40%;
+             border:10px black;
+             text-align:center;
+         }
+       .heading {
+           position:absolute; 
+           width:12%; 
+           height:99%; 
+           top:25%; 
+           left: 23%;
+           background-color:black; 
+           border:2px black;
+           text-align:center;
+           text-color:blue;
+           opacity:0.8;
+          }
+        
+          .right {
+           position:absolute; 
+           width:55%; 
+           height:8%; 
+           top:120%; 
+           left:23%;
+           background-color:red; 
+           border:4px black;
+           text-align:left;
+           text-color:red;
+           }
+           
+         
+  
+	  </body>
+</style>
+</head>
+</html>
